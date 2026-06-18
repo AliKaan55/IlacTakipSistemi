@@ -118,7 +118,13 @@ CREATE TABLE Hatirlatma (
 - Alarm kontrolü yalnızca uygulama açıkken çalışır (arka plan servisi/sistem bildirimi değildir).
 - Hata yönetimi (try-catch) veri erişim katmanında sınırlıdır; veritabanı geçici olarak erişilemez olursa alarm döngüsü sessizce atlanır.
 - Asenkron (`async/await`) veritabanı çağrıları kullanılmamıştır; yoğun kullanımda arayüz kısa süreli yanıt vermeyebilir.
+## Ekran Görüntüleri
+<img width="798" height="490" alt="Image" src="https://github.com/user-attachments/assets/e957436f-8f9b-4cec-a0ee-9dc5caa24788" />
 
-## Lisans
+<img width="586" height="486" alt="Image" src="https://github.com/user-attachments/assets/879a3dff-5f7b-4af3-bc05-fc7f20f87ed8" />
+
+<img width="796" height="544" alt="Image" src="https://github.com/user-attachments/assets/fd84f154-f1e0-44ee-9414-3be91bb815ba" />
+
+<img width="797" height="546" alt="Image" src="https://github.com/user-attachments/assets/186b7113-cadd-4ecb-b56e-6b60d070e3c5" />
 
 Bu proje eğitim/portföy amaçlıdır.
